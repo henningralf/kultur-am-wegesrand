@@ -2,9 +2,16 @@
 
 Ein einzelner HTML-Prototyp, um Kulturorte in der Umgebung eines Kartenpunkts zu entdecken.
 
-## Starten
+## Online öffnen
 
-Öffne `kultur-am-wegesrand.html` in einem aktuellen Browser. Für Karte, Suche und Ergebnisdaten ist eine Internetverbindung erforderlich.
+Die App wird über GitHub Pages veröffentlicht:
+https://henningralf.github.io/kultur-am-wegesrand/
+
+Jeder Push auf `main` aktualisiert die Seite nach etwa einer Minute.
+
+## Lokal starten
+
+Öffne `index.html` in einem aktuellen Browser. Für Karte, Suche und Ergebnisdaten ist eine Internetverbindung erforderlich.
 
 ## Datenquellen
 
